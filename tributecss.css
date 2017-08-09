@@ -2,5 +2,73 @@
     box-sizing:border-box;
 }
 
-#whitebox {
+#upperbar {
+
+background-color: #E8E8E8;
+height: 2em;
+
 }
+
+
+#leftcontainer {
+
+position:relative;
+top:50%; 
+height:10em; 
+margin-top:10em;
+vertical-align:middle;
+
+}
+
+#rightcontainer {
+
+}
+
+
+div button {
+
+ 
+}
+
+#earlydiv {
+
+}
+
+#youthdiv {
+
+}
+
+#mathdiv {
+
+}
+
+#lastdiv {
+
+}
+
+
+#gimage {
+
+}
+
+#textcontainer {
+
+}
+#earlyYears{
+
+}
+						
+#youth {
+
+}
+						
+#math {
+
+}
+						
+#last
+
+#linkdiv {
+
+}
+					
